@@ -1,7 +1,5 @@
 # Responsive for all device
 
-- project overview
- [![PDF](https://img.shields.io/badge/View%20PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Assignment-Category_Assignment-09_category_rose.pdf)
 
 
 ## 🚀 Live Preview
