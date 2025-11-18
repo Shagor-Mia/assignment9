@@ -1,0 +1,122 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Winter Coat Fitting for Dogs",
+    "providerName": "PawCare Studio",
+    "providerEmail": "info@pawcare.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Custom coat fitting and soft thermal outfit options to keep your dog warm, stylish, and comfortable throughout the chilly months.",
+    "image": "https://i.ibb.co.com/RTRz4B9z/dog-coat-1.jpg",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Winter Grooming & Paw Treatment",
+    "providerName": "CozyPets Grooming",
+    "providerEmail": "hello@cozypets.com",
+    "price": 30,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Professional grooming using winter-safe shampoos and paw balm to prevent dryness and cracking during cold weather.",
+    "image": "https://i.ibb.co.com/RkjqzRy1/dog-grooming2.jpg",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Warm Shelter Setup Consultation",
+    "providerName": "Pet Haven Experts",
+    "providerEmail": "contact@pethaven.com",
+    "price": 40,
+    "rating": 4.7,
+    "slotsAvailable": 2,
+    "description": "Personalized guidance for creating insulated pet shelters and bedding that retain warmth during the freezing nights.",
+    "image": "https://i.ibb.co.com/gY1j559/warmselter.jpg",
+    "category": "Consultation"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Nutritional Plan for Winter Health",
+    "providerName": "HappyTail Nutrition",
+    "providerEmail": "support@happytail.com",
+    "price": 20,
+    "rating": 4.9,
+    "slotsAvailable": 5,
+    "description": "Custom meal planning with energy-rich recipes to boost your pet’s immunity and maintain a healthy weight during the winter.",
+    "image": "https://i.ibb.co.com/7xtKn1L0/petnutration.jpg",
+    "category": "Health & Diet"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Thermal Blanket Customization",
+    "providerName": "FurHaven Workshop",
+    "providerEmail": "care@furhaven.com",
+    "price": 35,
+    "rating": 4.6,
+    "slotsAvailable": 4,
+    "description": "Soft fleece and insulated blanket customization designed to match your pet’s bed size and comfort preferences.",
+    "image": "https://i.ibb.co.com/JWR16vWv/petblanket.jpg",
+    "category": "Accessories"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Winter Health Check-Up",
+    "providerName": "SnowPaws Veterinary",
+    "providerEmail": "clinic@snowpawsvet.com",
+    "price": 50,
+    "rating": 5.0,
+    "slotsAvailable": 6,
+    "description": "Comprehensive winter wellness exam including fur inspection, joint mobility check, and cold-weather vaccination updates.",
+    "image": "https://i.ibb.co.com/RTpgHsYX/hero-2.jpg",
+    "category": "Veterinary"
+  },
+  {
+    "serviceId": 7,
+    "serviceName": "Indoor Exercise & Play Session",
+    "providerName": "PawJoy Fitness",
+    "providerEmail": "fun@pawjoy.com",
+    "price": 15,
+    "rating": 4.5,
+    "slotsAvailable": 5,
+    "description": "Engaging indoor games and agility activities to keep pets active and prevent seasonal lethargy during colder months.",
+    "image": "https://i.ibb.co.com/9mHrqS7D/indorplay-1.jpg",
+    "category": "Activity"
+  },
+  {
+    "serviceId": 8,
+    "serviceName": "Pet Sauna & Spa Experience",
+    "providerName": "WarmWhisker Spa",
+    "providerEmail": "book@warmwhisker.com",
+    "price": 60,
+    "rating": 4.8,
+    "slotsAvailable": 2,
+    "description": "A gentle spa experience with temperature-controlled rooms, warm towels, and fur revitalizing treatments for ultimate relaxation.",
+    "image": "https://i.ibb.co.com/cXLjTPMn/cat-grooming1.jpg",
+    "category": "Spa & Relaxation"
+  },
+  {
+    "serviceId": 9,
+    "serviceName": "Winter Walking Gear Rental",
+    "providerName": "FrostyPaw Rentals",
+    "providerEmail": "rent@frostypaw.com",
+    "price": 18,
+    "rating": 4.7,
+    "slotsAvailable": 7,
+    "description": "Rent insulated harnesses, boots, and reflective jackets for safe outdoor walks in snow and icy conditions.",
+    "image": "https://i.ibb.co.com/yFqzdWtv/walkinggear.jpg",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 10,
+    "serviceName": "Heated Bed Installation Service",
+    "providerName": "SnuggleNest Co.",
+    "providerEmail": "hello@snugglenest.com",
+    "price": 45,
+    "rating": 4.9,
+    "slotsAvailable": 3,
+    "description": "Set up electric or self-heating beds to keep your pets warm during frosty nights while maintaining energy efficiency and safety.",
+    "image": "https://i.ibb.co.com/hJ2gLffc/heatedbed-1.jpg",
+    "category": "Comfort"
+  }
+]
